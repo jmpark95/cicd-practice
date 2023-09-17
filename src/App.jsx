@@ -32,7 +32,7 @@ function App() {
          <div className="card">
             <button onClick={() => setCount((count) => count + 1)}>count is {count}</button>
          </div>
-         <p className="read-the-docs">Version 7 with .env</p>
+         <p className="read-the-docs">Version 7 with .env. Azure</p>
       </>
    );
 }
